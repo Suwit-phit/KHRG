@@ -19,7 +19,7 @@ export default function RightContact() {
         <hr className="border-t-2 border-[#eff0f2] -mt-1 my-2 w-[353px] rounded" />
       </div>
       <div className="-mt-2">
-        <p className="text-lg mt-0 mb-1">
+        {/* <p className="text-lg mt-0 mb-1">
           &nbsp;&nbsp;I am a committed, self-motivated, and hardworking
           individual with extensive volunteering and community engagement
           experience. Through academic, professional, and extracurricular
@@ -38,8 +38,8 @@ export default function RightContact() {
           learn, collaborate effectively with others, and support research and
           public health initiatives through accuracy, responsibility, and
           continuous professional growth.
-        </p>
-        {/* <p className="text-lg mt-2 mb-3">
+        </p> */}
+        <p className="text-lg mt-2 mb-3">
           &nbsp;&nbsp;I am a committed, self-motivated, and hardworking
           individual with extensive volunteering and community engagement
           experience. Through academic, professional, and extracurricular
@@ -53,7 +53,7 @@ export default function RightContact() {
           my skills, knowledge, and experience while contributing meaningfully
           to organizational goals and supporting positive social impact through
           continuous learning, collaboration, and professional growth.
-        </p> */}
+        </p>
         {/* <p className="text-lg">
           &nbsp;&nbsp;I am now seeking the opportunity to gain real-world
           experience where I can apply the knowledge I’ve acquired in the
